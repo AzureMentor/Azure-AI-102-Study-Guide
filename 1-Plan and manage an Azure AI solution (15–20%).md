@@ -1,10 +1,10 @@
 # AI-102: Plan and manage an Azure AI solution (15–20%)
 
 ## Select the appropriate Azure AI service
-* Select the appropriate service for a computer vision solution
+* [Select the appropriate service for a computer vision solution](https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/)
 * [Select the appropriate service for a natural language processing solution](https://learn.microsoft.com/en-us/azure/architecture/data-guide/technology-choices/natural-language-processing)
-* Select the appropriate service for a speech solution
-* Select the appropriate service for a generative AI solution
+* [Select the appropriate service for a speech solution](https://learn.microsoft.com/en-us/azure/ai-services/speech-service/)
+* [Select the appropriate service for a generative AI solution](https://learn.microsoft.com/en-us/azure/ai-services/openai/)
 * [Select the appropriate service for a document intelligence solution](https://learn.microsoft.com/en-us/training/modules/analyze-receipts-form-recognizer/)
 * [Select the appropriate service for a knowledge mining solution](https://learn.microsoft.com/en-us/training/modules/intro-to-azure-search/)
 

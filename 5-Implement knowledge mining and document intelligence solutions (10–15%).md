@@ -1,7 +1,7 @@
 # AI-102: Implement knowledge mining and document intelligence solutions (10–15%)
 
 ## Implement an Azure AI Search solution
-* Provision an Azure AI Search resource
+* [Provision an Azure AI Search resource](https://learn.microsoft.com/en-us/azure/search/search-create-service-portal)
 * [Create data sources](https://learn.microsoft.com/en-us/rest/api/searchservice/create-data-source)
 * [Create an index](https://learn.microsoft.com/en-us/azure/search/search-how-to-create-search-index)
 * [Define a skillset](https://learn.microsoft.com/en-us/azure/search/cognitive-search-defining-skillset)

@@ -1,4 +1,4 @@
-# AI-102: Plan and manage an Azure AI solution (15–20%)
+# AI-102: Plan and manage an Azure AI solution (20–25%)
 
 ## Select the appropriate Azure AI service
 * [Select the appropriate service for a computer vision solution](https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/)
@@ -23,5 +23,13 @@
 * Protect account keys by using Azure Key Vault
 * [Manage authentication for an Azure AI Service resource](https://learn.microsoft.com/en-us/azure/ai-services/authentication)
 * [Manage private communications](https://learn.microsoft.com/en-us/azure/ai-studio/how-to/configure-private-link)
+
+## Implement AI solutions responsibly
+* [Implement a text moderation solution with Azure AI Content Safety](https://learn.microsoft.com/en-us/azure/ai-services/content-safety/quickstart-text)
+* [Implement an image moderation solution with Azure AI Content Safety](https://learn.microsoft.com/en-us/azure/ai-services/content-safety/quickstart-image)
+* Configure responsible AI insights, including content safety
+* Implement responsible AI, including content filters and blocklists
+* Prevent harmful behavior, including prompt shields and harm detection
+* Design a responsible AI governance framework
 
 [Return to Table of Contents](README.md)

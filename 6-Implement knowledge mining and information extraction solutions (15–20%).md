@@ -1,4 +1,4 @@
-# AI-102: Implement knowledge mining and document intelligence solutions (10–15%)
+# AI-102: Implement knowledge mining and information extraction solutions (15–20%)
 
 ## Implement an Azure AI Search solution
 * [Provision an Azure AI Search resource](https://learn.microsoft.com/en-us/azure/search/search-create-service-portal)
@@ -17,5 +17,11 @@
 * [Train, test, and publish a custom document intelligence model](https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/how-to-guides/build-a-custom-model)
 * [Create a composed document intelligence model](https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/concept-composed-models)
 * [Implement a document intelligence model as a custom Azure AI Search skill](https://learn.microsoft.com/en-us/training/modules/build-form-recognizer-custom-skill-for-azure-cognitive-search/)
+
+## Extract information with Azure AI Content Understanding
+* Create an OCR pipeline to extract text from images and documents
+* Summarize, classify, and detect attributes of documents
+* Extract entities, tables, and images from documents
+* Process and ingest documents, images, videos, and audio with Azure AI Content Understanding
 
 [Return to Table of Contents](README.md)

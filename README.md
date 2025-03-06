@@ -7,3 +7,7 @@
 4. [Implement computer vision solutions (15–20%)](4-Implement%20computer%20vision%20solutions%20(10–15%25).md)
 5. [Implement natural language processing solutions (30–35%)](5-Implement%20natural%20language%20processing%20solutions%20(15–20%25).md)
 6. [Implement knowledge mining and document intelligence solutions (10–15%)](6-Implement%20knowledge%20mining%20and%20information%20extraction%20solutions%20(15–20%25).md)
+
+## Hands-on study material at Microsoft Learn
+
+* [Designing and Implementing a Microsoft Azure AI Solution](https://learn.microsoft.com/en-us/training/courses/ai-102t00)

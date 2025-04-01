@@ -1,4 +1,14 @@
-# AI-102: Implement generative AI solutions (10–15%)
+# AI-102: Implement generative AI solutions (15–20%)
+
+## Build generative AI solutions with Azure AI Foundry
+* Plan and prepare for a generative AI solution
+* Deploy a hub, project, and necessary resources with Azure AI Foundry
+* Deploy the appropriate generative AI model for your use case
+* Implement a prompt flow solution
+* Implement a RAG pattern by grounding a model in your data
+* Evaluate models and flows
+* Integrate your project into an application with Azure AI Foundry SDK
+* Utilize prompt templates in your generative AI solution
 
 ## Use Azure OpenAI Service to generate content
 * [Provision an Azure OpenAI Service resource](https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/create-resource)
@@ -8,8 +18,14 @@
 * [Use the DALL-E model to generate images](https://learn.microsoft.com/en-us/azure/ai-services/openai/dall-e-quickstart)
 * [Use Azure OpenAI APIs to submit prompts and receive responses](https://learn.microsoft.com/en-us/azure/ai-services/openai/reference)
 
-## Optimize generative AI
+## Optimize and operationalize a generative AI solution
 * Configure parameters to control generative behavior
+* Configure model monitoring and diagnostic settings, including performance and resource consumption
+* Optimize and manage resources for deployment, including scalability and foundational model updates
+* Enable tracing and collect feedback
+* Implement model reflection
+* Deploy containers for use on local and edge devices
+* Implement orchestration of multiple generative AI models
 * [Apply prompt engineering techniques to improve responses](https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/advanced-prompt-engineering)
 * [Use your own data with an Azure OpenAI model](https://learn.microsoft.com/en-us/azure/ai-services/openai/use-your-data-quickstart)
 * [Fine-tune an Azure OpenAI model](https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/fine-tuning)

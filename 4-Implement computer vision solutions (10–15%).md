@@ -1,4 +1,4 @@
-# AI-102: Implement computer vision solutions (15–20%)
+# AI-102: Implement computer vision solutions (10–15%)
 
 ## Analyze images
 * [Select visual features to meet image processing requirements](https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/overview-image-analysis)
